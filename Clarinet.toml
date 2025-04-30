@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/skill-tide-core.clar"
 depends_on = []
 
+[contracts.skill-tide-meetups]
+path = "contracts/skill-tide-meetups.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
